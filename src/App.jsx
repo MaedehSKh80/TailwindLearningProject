@@ -1,3 +1,5 @@
+import companyImage from "./assets/EversupportCoPost.png";
+
 function App() {
   return (
     <>
@@ -6,7 +8,7 @@ function App() {
           <div className="flex flex-col md:flex-row">
             <div className="overflow-hidden md:w-1/2">
               <img
-                src="./src/assets/EversupportCoPost.png"
+                src={companyImage}
                 alt="Ever Support Co"
                 className="h-full w-full object-cover transition-transform duration-700 hover:scale-110"
               />
