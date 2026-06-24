@@ -35,10 +35,6 @@ Through this project, I practiced:
 * Deploying React applications to GitHub Pages
 * Improving user interface and user experience (UI/UX)
 
-## 📸 Preview
-
-![Project Screenshot](./src/assets/EversupportCoPost.png)
-
 ## 🔗 Portfolio
 
 You can find more of my projects and work here:
