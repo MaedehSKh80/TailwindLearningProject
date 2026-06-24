@@ -1,16 +1,58 @@
-# React + Vite
+# Tailwind Learning Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+My first project built with **React**, **Vite**, and **Tailwind CSS**.
 
-Currently, two official plugins are available:
+This project was created as part of my journey to learn modern frontend development and utility-first styling with Tailwind CSS. The main goal was to practice building responsive layouts, improving UI design, and understanding how Tailwind classes can be used to create attractive interfaces efficiently.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🚀 Live Demo
 
-## React Compiler
+https://maedehskh80.github.io/TailwindLearningProject/
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🛠️ Technologies Used
 
-## Expanding the ESLint configuration
+* React
+* Vite
+* Tailwind CSS
+* JavaScript (ES6+)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## ✨ Features
+
+* Responsive design for desktop and mobile devices
+* Modern card-based UI
+* Smooth hover animations
+* Gradient background
+* Clean and readable layout
+* External portfolio link integration
+
+## 🎯 What I Learned
+
+Through this project, I practiced:
+
+* Creating responsive layouts with Tailwind CSS
+* Working with utility-first CSS classes
+* Using Flexbox for layout design
+* Importing and managing assets in React
+* Deploying React applications to GitHub Pages
+* Improving user interface and user experience (UI/UX)
+
+## 📸 Preview
+
+![Project Screenshot](./src/assets/EversupportCoPost.png)
+
+## 🔗 Portfolio
+
+You can find more of my projects and work here:
+
+https://itsmaedehskh.ir
+
+## 👩‍💻 Author
+
+**Maedeh Sadat Khorasani**
+
+* Portfolio: https://itsmaedehskh.ir
+* GitHub: https://github.com/MaedehSKh80
+* LinkedIn: https://linkedin.com/in/maedehsadatkhorasani/
+
+---
+
+This project represents one of my first steps into modern frontend development and Tailwind CSS. While simple, it reflects my commitment to continuous learning and improving my development skills.
